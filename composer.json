@@ -1,0 +1,20 @@
+{
+    "name": "asusiran/validation",
+    "autoload": {
+        "psr-4": {
+            "Asusiran\\Validation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohsen",
+            "email": "m.barti09821@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4": {
+            "Mohsenvalidation\\" : "src/"
+        }
+    },
+    "require": {}
+}
