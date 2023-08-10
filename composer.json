@@ -1,5 +1,5 @@
 {
-    "name": "asusiran/validation",
+    "name": "mohsenroshani/validation",
     "autoload": {
         "psr-4": {
             "Asusiran\\Validation\\": "src/"
