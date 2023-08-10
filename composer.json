@@ -5,6 +5,9 @@
             "Asusiran\\Validation\\": "src/"
         }
     },
+
+    "license": ["MIT"],
+
     "authors": [
         {
             "name": "mohsen",
