@@ -8,5 +8,8 @@ class Validation
     }
 }
 
+function have () {
+    return ;
+}
 
 ?>
